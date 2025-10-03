@@ -1,0 +1,4 @@
+pythonocc-core>=7.6.0
+click
+pytest
+numpy

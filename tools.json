@@ -1,0 +1,5 @@
+[
+  {"name":"Drill_1mm","type":"drill","dia_mm":1.0,"tool_id":1,"rpm":12000,"feed_mm_min":150},
+  {"name":"Drill_5mm","type":"drill","dia_mm":5.0,"tool_id":2,"rpm":8000,"feed_mm_min":300},
+  {"name":"Endmill_6mm","type":"endmill","dia_mm":6.0,"tool_id":10,"rpm":3000,"feed_mm_min":600}
+]
